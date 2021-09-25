@@ -1,0 +1,1 @@
+print(r"ola mundo \n") # o r ele tira o poder do \
